@@ -43,5 +43,13 @@ entity.create();
 //Init the renderer
 renderer.init();
 ```
+# Coming soon
+* Rotate Method
+* More Built in vector functions
+* Built in tilemap support
+* More efiecient collision detection method... Quad tree or unifrom grid maybe?
+* Multi threading. Still learning to deal with web workers...
+* and more!
 
-//More documentation coming soon!
+
+# More documentation coming soon, stay Tuned!
