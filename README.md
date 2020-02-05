@@ -1,18 +1,20 @@
 # Simplex-game-engine
 A simple and eficient javascript game engine compatible with electron or cordoba!
 
-#Features
-1.Entity Based (every object inside the engine is treated as an entity);
-2.AABB Collision detectio.
+# Features
+1. Entity Based (every object inside the engine is treated as an entity);
+2 .AABB Collision detectio.
   Filterable
   general
-3.Layer system
-4.Vector 2 Math
-5.Basic user Input (mouse and single key strokes)
-6.Custom Event Listeners for your game.
-7 renderer with controllable framerate.
+3. Layer system
+4. Vector 2 Math
+5. Basic user Input (mouse and single key strokes)
+6. Custom Event Listeners for your game.
+7  renderer with controllable framerate.
 
-#Example
+
+
+# Example
 
 ```Javascript
 /*Calls the renderer. By default it will have it´s framerate set to 60fps 
